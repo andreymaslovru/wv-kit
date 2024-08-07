@@ -43,5 +43,5 @@ storybook-static
 
 .env
 
-/dist
+# /dist
 .npmrc
