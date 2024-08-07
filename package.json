@@ -14,6 +14,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/andreymaslovru"
+  }
   "repository": {
     "type": "git",
     "url": "https://github.com/andreymaslovru/wv-kit"
