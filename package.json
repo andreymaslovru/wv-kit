@@ -1,8 +1,8 @@
 {
-  "name": "@easy-pip/ui-kit",
+  "name": "@wv/ui-kit",
   "version": "1.0.0",
-  "author": "Easy PIP team",
-  "description": "UI-kit команды Легкая Витрина",
+  "author": "Andrey Maslov",
+  "description": "UI-kit",
   "license": "ISC",
   "scripts": {
     "dev": "rollup -c --watch",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitlab.services.mts.ru/fintech/easy-pip/ui-kit"
+    "url": "https://github.com/andreymaslovru/wv-kit"
   },
   "babel": {
     "sourceType": "unambiguous",
