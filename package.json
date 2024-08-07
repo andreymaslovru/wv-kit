@@ -1,5 +1,5 @@
 {
-  "name": "@wv/ui-kit",
+  "name": "wv-kit",
   "version": "1.0.0",
   "author": "Andrey Maslov",
   "description": "UI-kit",
@@ -19,8 +19,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreymaslovru/wv-kit"
-  },
+    "url": "git+https://github.com/andreymaslovru/wv-kit.git"
+  },   
   "babel": {
     "sourceType": "unambiguous",
     "presets": [
